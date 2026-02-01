@@ -1,0 +1,5 @@
+{
+  "vault_path": "/mnt/d/Personal/Notes/ObsidianNotesSyncRepo",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_chunks": 1345
+}
