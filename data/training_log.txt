@@ -1,0 +1,22 @@
+ python -m scripts.train_router_qlora
+Loading weights: 100%|█| 339/339 [00:02<00:00, 138.51it/s, Materializing param=model.norm.we
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+GPU: NVIDIA GeForce RTX 4060 Ti
+Sample text chars: 4364
+pad_token_id: 151643 eos_token_id: 151645 bos_token_id: None
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'bos_token_id': None}.
+{'loss': '1.926', 'learning_rate': '9e-05', 'entropy': '0.9805', 'num_tokens': '8.192e+04', 'mean_token_accuracy': '0.6665', 'epoch': '0.2685'}
+{'loss': '1.573', 'learning_rate': '9.182e-05', 'entropy': '1.276', 'num_tokens': '1.638e+05', 'mean_token_accuracy': '0.6937', 'epoch': '0.5369'}
+{'loss': '1.301', 'learning_rate': '8.273e-05', 'entropy': '1.442', 'num_tokens': '2.458e+05', 'mean_token_accuracy': '0.7247', 'epoch': '0.8054'}
+{'loss': '0.9562', 'learning_rate': '7.364e-05', 'entropy': '1.229', 'num_tokens': '3.215e+05', 'mean_token_accuracy': '0.7803', 'epoch': '1.054'}
+{'loss': '0.4958', 'learning_rate': '6.455e-05', 'entropy': '0.6581', 'num_tokens': '4.035e+05', 'mean_token_accuracy': '0.8867', 'epoch': '1.322'}
+{'loss': '0.1512', 'learning_rate': '5.545e-05', 'entropy': '0.2469', 'num_tokens': '4.854e+05', 'mean_token_accuracy': '0.9748', 'epoch': '1.591'}
+{'loss': '0.0682', 'learning_rate': '4.636e-05', 'entropy': '0.09419', 'num_tokens': '5.673e+05', 'mean_token_accuracy': '0.9913', 'epoch': '1.859'}
+{'loss': '0.04743', 'learning_rate': '3.727e-05', 'entropy': '0.06446', 'num_tokens': '6.431e+05', 'mean_token_accuracy': '0.9948', 'epoch': '2.107'}
+{'loss': '0.03709', 'learning_rate': '2.818e-05', 'entropy': '0.05315', 'num_tokens': '7.25e+05', 'mean_token_accuracy': '0.9953', 'epoch': '2.376'}
+{'loss': '0.03055', 'learning_rate': '1.909e-05', 'entropy': '0.04768', 'num_tokens': '8.069e+05', 'mean_token_accuracy': '0.9961', 'epoch': '2.644'}
+{'loss': '0.0265', 'learning_rate': '1e-05', 'entropy': '0.04511', 'num_tokens': '8.888e+05', 'mean_token_accuracy': '0.9965', 'epoch': '2.913'}
+{'loss': '0.02478', 'learning_rate': '9.091e-07', 'entropy': '0.0443', 'num_tokens': '9.646e+05', 'mean_token_accuracy': '0.9971', 'epoch': '3.161'}
+{'train_runtime': '953.8', 'train_samples_per_second': '1.007', 'train_steps_per_second': '0.126', 'train_loss': '0.5531', 'epoch': '3.161'}
+100%|█████████████████████████████████████████████████████| 120/120 [15:53<00:00,  7.95s/it]
+Saved router LoRA adapter -> data/lora/router_qwen25_7b_wddm_fit

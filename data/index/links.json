@@ -1,0 +1,1832 @@
+{
+  "outgoing": {
+    ".bss.md": [],
+    ".data.md": [],
+    "00_inbox/().md": [],
+    "00_inbox/8 Handy Design Patterns.md": [],
+    "00_inbox/Adaptive app on linux machine.md": [],
+    "00_inbox/AES.md": [
+      "Pasted image 20241210153624.png"
+    ],
+    "00_inbox/Ai4-all Induction questions.md": [],
+    "00_inbox/AI4all github access token.md": [],
+    "00_inbox/AI4all pulses.md": [],
+    "00_inbox/AI4all resources.md": [
+      "AI4all pulses"
+    ],
+    "00_inbox/angres site.md": [],
+    "00_inbox/Approaches to concurrency.md": [
+      "conc3.png",
+      "conc4 1.png",
+      "interprocess communication"
+    ],
+    "00_inbox/Ass.md": [],
+    "00_inbox/auth flow vulnerability.md": [],
+    "00_inbox/Baked potato.md": [],
+    "00_inbox/Baselining.md": [],
+    "00_inbox/BSP V4.2.0.3.md": [],
+    "00_inbox/BSPv4.2.0.3.md": [],
+    "00_inbox/BSPv5.1.1.0.md": [],
+    "00_inbox/build env.md": [],
+    "00_inbox/BuildEnv task.md": [],
+    "00_inbox/C++  most vexing parse.md": [],
+    "00_inbox/C++ Designing Classes.md": [],
+    "00_inbox/C++ Program life time.md": [
+      "detaching threads"
+    ],
+    "00_inbox/C++.md": [],
+    "00_inbox/Callouts.md": [],
+    "00_inbox/Camera Vision Concepts.md": [],
+    "00_inbox/Canonical written interview.md": [],
+    "00_inbox/Cheat meal Ideas.md": [],
+    "00_inbox/CI CD.md": [
+      "Pasted image 20241031115804.png"
+    ],
+    "00_inbox/CI_Build.md": [],
+    "00_inbox/Cleaning plan.md": [],
+    "00_inbox/cleaning wsl.md": [],
+    "00_inbox/Cloud Filestore.md": [],
+    "00_inbox/Cloud run.md": [],
+    "00_inbox/Cloud SQL.md": [
+      "ACID",
+      "relational databases"
+    ],
+    "00_inbox/CMAKE questions and answers.md": [],
+    "00_inbox/CMAKE Questions.md": [],
+    "00_inbox/Comm review.md": [],
+    "00_inbox/Commenting.md": [
+      "Pasted image 20231123120404.png"
+    ],
+    "00_inbox/Communication Manager.md": [],
+    "00_inbox/Compiler options.md": [],
+    "00_inbox/componenets.md": [],
+    "00_inbox/components.md": [],
+    "00_inbox/Comprehensive Guide to the Pricing Analysis Application.md": [],
+    "00_inbox/Compute service.md": [],
+    "00_inbox/Configuring Git lfs.md": [
+      "Pasted image 20231203103646.png"
+    ],
+    "00_inbox/Constant Member functions C++.md": [
+      "Mutable member variables C++"
+    ],
+    "00_inbox/Conversion between int and enum in C and C++.md": [],
+    "00_inbox/cookies (stateful) vs tokens (stateless).md": [],
+    "00_inbox/coursera.md": [],
+    "00_inbox/Courses to take.md": [],
+    "00_inbox/Creds.md": [],
+    "00_inbox/Cybersecurity .md": [],
+    "00_inbox/dangling pointer.md": [],
+    "00_inbox/data types in javascript.md": [],
+    "00_inbox/Davinci Developer Modeling.md": [],
+    "00_inbox/De.md": [],
+    "00_inbox/Deep dive into gcp.md": [],
+    "00_inbox/delegate class.md": [],
+    "00_inbox/Delivery.md": [],
+    "00_inbox/Design patterns resources.md": [],
+    "00_inbox/Design Patterns Training.md": [
+      "Design patterns resources"
+    ],
+    "00_inbox/Design Patterns.md": [],
+    "00_inbox/Diag review.md": [],
+    "00_inbox/DiagIP.md": [
+      "Pasted image 20250519194704.png"
+    ],
+    "00_inbox/Dms Tips.md": [],
+    "00_inbox/DmsAPp Performance KPIs.md": [
+      "Pasted image 20241119121837.png"
+    ],
+    "00_inbox/Docx_generation_service.md": [],
+    "00_inbox/DoIP.md": [],
+    "00_inbox/Doors.md": [],
+    "00_inbox/Drawing 2024-08-04 14.33.08.excalidraw.md": [],
+    "00_inbox/Dtcs.md": [],
+    "00_inbox/Dynamic memory allocation C++.md": [
+      "dangling pointer",
+      "Segmentation fault C++"
+    ],
+    "00_inbox/dynamically typed programming language.md": [
+      "javascript has value data types and not variables data types"
+    ],
+    "00_inbox/Embedded Linux Resources.md": [],
+    "00_inbox/embeddings.md": [],
+    "00_inbox/Errorproxy documentation.md": [],
+    "00_inbox/Ethernet training.md": [
+      "ethernet_physical_layer"
+    ],
+    "00_inbox/Euf 8.2.0 integration.md": [
+      "Pasted image 20241113084105.png",
+      "Pasted image 20241113084929.png"
+    ],
+    "00_inbox/Euf Integration.md": [],
+    "00_inbox/euf workshop.md": [
+      "Pasted image 20240930173632.png"
+    ],
+    "00_inbox/Execution Manifest.md": [
+      "ExecutionManifest.jpg"
+    ],
+    "00_inbox/Explanation of aracom API.md": [],
+    "00_inbox/export.md": [],
+    "00_inbox/falsy values.md": [
+      "type conversion in javascript"
+    ],
+    "00_inbox/FAQ about the system.md": [],
+    "00_inbox/File Descriptors in Linux.md": [],
+    "00_inbox/Flashing BSP.md": [
+      "Memory types"
+    ],
+    "00_inbox/Focus points.md": [],
+    "00_inbox/Gall's law.md": [],
+    "00_inbox/git 1.md": [],
+    "00_inbox/git ignore.md": [],
+    "00_inbox/Git LFS.md": [],
+    "00_inbox/Git nores.md": [],
+    "00_inbox/git.md": [
+      "Moving a submodule to another place"
+    ],
+    "00_inbox/Gliomapipeline.md": [],
+    "00_inbox/Google Kubernetes engine.md": [],
+    "00_inbox/gorecery list.md": [],
+    "00_inbox/greedy vs random sampling.md": [],
+    "00_inbox/Hammad allignation.md": [],
+    "00_inbox/Hammad meeting.md": [],
+    "00_inbox/Hardware concurrency.md": [
+      "Hardware threads"
+    ],
+    "00_inbox/Hardware threads.md": [],
+    "00_inbox/Healthy recipes.md": [],
+    "00_inbox/heap.md": [],
+    "00_inbox/HIIT.md": [],
+    "00_inbox/How to run pricing analysis.md": [],
+    "00_inbox/IaaS.md": [],
+    "00_inbox/Ideas when developing python Apps.md": [],
+    "00_inbox/IDS presentation notes.md": [],
+    "00_inbox/IDS presentation.md": [
+      "IDS presentation notes"
+    ],
+    "00_inbox/Implementation comments.md": [],
+    "00_inbox/Increasing Performance using concurrency.md": [],
+    "00_inbox/initialization and assignment C++.md": [
+      "Narrowing conversions"
+    ],
+    "00_inbox/Integrate 1-software first.md": [],
+    "00_inbox/Integration notes.md": [],
+    "00_inbox/Integration todo.md": [],
+    "00_inbox/intern guidance.md": [],
+    "00_inbox/interprocess communication.md": [],
+    "00_inbox/Java.md": [],
+    "00_inbox/Kaplan Law.md": [],
+    "00_inbox/Klockworks.md": [],
+    "00_inbox/KW command.md": [],
+    "00_inbox/Lazy Egg-Drop Problem.md": [
+      "Classic_egg_drop"
+    ],
+    "00_inbox/LearnCPP syllabus.md": [],
+    "00_inbox/Lecture 4 - Regression.md": [
+      "Pasted image 20241118185116.png",
+      "Pasted image 20241118191345.png"
+    ],
+    "00_inbox/Life sectors circle.md": [],
+    "00_inbox/Linux networking command.md": [
+      "File Descriptors in Linux"
+    ],
+    "00_inbox/List of needed activities.md": [],
+    "00_inbox/logging to the console in java script.md": [],
+    "00_inbox/Loopback address.md": [],
+    "00_inbox/loosely typed programming language.md": [],
+    "00_inbox/Make notes.md": [],
+    "00_inbox/Make.md": [],
+    "00_inbox/managing threads.md": [],
+    "00_inbox/mashed potato.md": [],
+    "00_inbox/Masked Language Modeling.md": [],
+    "00_inbox/Meal prep Monk Mode 2.0.md": [],
+    "00_inbox/meal prep raw options.md": [
+      "Pasted image 20250906183618.png"
+    ],
+    "00_inbox/Memory Allocation C++.md": [
+      ".bss",
+      ".data",
+      "Dynamic memory allocation C++",
+      "heap",
+      "new keyword",
+      "stack"
+    ],
+    "00_inbox/Memory Leak.md": [
+      "Dynamic memory allocation C++"
+    ],
+    "00_inbox/Memory Protection Unit.md": [],
+    "00_inbox/Memory types.md": [],
+    "00_inbox/MemoryFaults.md": [],
+    "00_inbox/Minicom.md": [
+      "Linux",
+      "Ride4",
+      "sweet500"
+    ],
+    "00_inbox/Modal dialog.md": [
+      "Pasted image 20251020082815.png"
+    ],
+    "00_inbox/ModeMangement Integration Task.md": [],
+    "00_inbox/Modifications needed.md": [],
+    "00_inbox/Motivational 1.md": [],
+    "00_inbox/Moving a submodule to another place.md": [],
+    "00_inbox/MS118 Architecture training.md": [],
+    "00_inbox/Mutable member variables C++.md": [],
+    "00_inbox/My template.md": [],
+    "00_inbox/Narrowing conversions.md": [],
+    "00_inbox/Negative response codes.md": [],
+    "00_inbox/new keyword.md": [],
+    "00_inbox/nonrelational databases.md": [],
+    "00_inbox/Obsidian.md": [],
+    "00_inbox/OpenTelemetry.md": [
+      "Pasted image 20250928133135.png"
+    ],
+    "00_inbox/PaaS.md": [],
+    "00_inbox/parenting.md": [],
+    "00_inbox/PCU issues.md": [],
+    "00_inbox/People to look up to.md": [],
+    "00_inbox/pipx vs pip.md": [],
+    "00_inbox/Posix Profiles.md": [],
+    "00_inbox/Priority queues.md": [],
+    "00_inbox/Probability.md": [
+      "Bayes' Rule"
+    ],
+    "00_inbox/product validation handover.md": [
+      "Pasted image 20251117104713.png"
+    ],
+    "00_inbox/Programming paradigms.md": [],
+    "00_inbox/Prompt Engineering.md": [],
+    "00_inbox/PV architecture.md": [],
+    "00_inbox/Python libraries.md": [],
+    "00_inbox/QA.md": [],
+    "00_inbox/qcx log.md": [],
+    "00_inbox/Qnx application critical resources.md": [],
+    "00_inbox/Qnx Session.md": [
+      "Pasted image 20240807221531.png"
+    ],
+    "00_inbox/R320.md": [],
+    "00_inbox/Raghad Presents Ideas.md": [],
+    "00_inbox/Recovery Image.md": [],
+    "00_inbox/Regression.md": [
+      "Pasted image 20241209172457.png"
+    ],
+    "00_inbox/relational databases.md": [],
+    "00_inbox/Release checklist.md": [],
+    "00_inbox/Remember.md": [
+      "People to look up to"
+    ],
+    "00_inbox/Repos.md": [],
+    "00_inbox/Requirements hierarchy.md": [],
+    "00_inbox/Resources - to be organized.md": [],
+    "00_inbox/Ride4.md": [
+      "Minicom",
+      "SSH"
+    ],
+    "00_inbox/RSA yt.md": [
+      "Pasted image 20241224164152.png",
+      "Pasted image 20241224165626.png"
+    ],
+    "00_inbox/RSA.md": [
+      "Pasted image 20241112190423.png"
+    ],
+    "00_inbox/S.md": [],
+    "00_inbox/Sautee mushroom.md": [],
+    "00_inbox/self improvement resources.md": [],
+    "00_inbox/Shutdown sequence.md": [],
+    "00_inbox/Shutdown.md": [],
+    "00_inbox/SIGBUS.md": [
+      "Segmentation fault C++"
+    ],
+    "00_inbox/Slogger.md": [],
+    "00_inbox/SML validation.md": [],
+    "00_inbox/Software Architecture diagraming.md": [
+      "C4 Model"
+    ],
+    "00_inbox/SomeIP workshop.md": [],
+    "00_inbox/stack.md": [],
+    "00_inbox/startup script.md": [],
+    "00_inbox/statefulness comaprison table.md": [
+      "Cookies",
+      "JWT",
+      "oauth"
+    ],
+    "00_inbox/Statistics lecture.md": [],
+    "00_inbox/Steak day.md": [
+      "Baked potato",
+      "Sautee mushroom",
+      "Steak"
+    ],
+    "00_inbox/Steak.md": [],
+    "00_inbox/Stretches.md": [],
+    "00_inbox/Sweet500 CI.md": [],
+    "00_inbox/SWEET500 Errors.md": [],
+    "00_inbox/SWEET500 project.md": [],
+    "00_inbox/sweet500.md": [],
+    "00_inbox/Syscalls.md": [],
+    "00_inbox/Sysidag.md": [],
+    "00_inbox/SysOps.md": [],
+    "00_inbox/Testing camera.md": [],
+    "00_inbox/The science of well being.md": [],
+    "00_inbox/Todo ideas.md": [],
+    "00_inbox/Type  Registery.md": [],
+    "00_inbox/type coercion in javascript.md": [],
+    "00_inbox/type coercion.md": [],
+    "00_inbox/type conversion in javascript.md": [],
+    "00_inbox/Types of concurrency.md": [
+      "conc2.png",
+      "Hardware concurrency",
+      "Task Switching"
+    ],
+    "00_inbox/understand PA.md": [],
+    "00_inbox/Understanding ParkApp Diag.md": [
+      "Pasted image 20240826230610.png"
+    ],
+    "00_inbox/Untitled 1.md": [],
+    "00_inbox/Untitled 10.md": [],
+    "00_inbox/Untitled 11.md": [],
+    "00_inbox/Untitled 12.md": [],
+    "00_inbox/Untitled 13.md": [],
+    "00_inbox/Untitled 14.md": [],
+    "00_inbox/Untitled 2.md": [],
+    "00_inbox/Untitled 3.md": [],
+    "00_inbox/Untitled 4.md": [],
+    "00_inbox/Untitled 5.md": [],
+    "00_inbox/Untitled 6.md": [],
+    "00_inbox/Untitled 7.md": [],
+    "00_inbox/Untitled 8.md": [],
+    "00_inbox/Untitled 9.md": [],
+    "00_inbox/Untitled.md": [],
+    "00_inbox/Useful Linux Commands.md": [
+      "File Descriptors in Linux"
+    ],
+    "00_inbox/useful youtube channels.md": [],
+    "00_inbox/utilitiy invoice business logic.md": [],
+    "00_inbox/utility invoice backend security bitfall.md": [
+      "visualization"
+    ],
+    "00_inbox/utility invoice backend.md": [],
+    "00_inbox/utility invoice end to end.md": [],
+    "00_inbox/utility invoice frontend.md": [],
+    "00_inbox/Valeo sysops engineer.md": [],
+    "00_inbox/variables in javascript.md": [
+      "dynamically typed programming language",
+      "loosely typed programming language",
+      "window object in javascript"
+    ],
+    "00_inbox/Vectorization techniques.md": [],
+    "00_inbox/Vision integration.md": [],
+    "00_inbox/visualization.md": [],
+    "00_inbox/what is javascript.md": [
+      "calling javascript scripts inside html",
+      "dynamically typed programming language",
+      "event driven programming lanugae",
+      "interpreted language",
+      "loosely typed programming language"
+    ],
+    "00_inbox/Why do we need performance Metrics .md": [],
+    "00_inbox/Why I am doing a Masters and why I should finish.md": [],
+    "00_inbox/Why use concurrency.md": [
+      "Increasing Performance using concurrency"
+    ],
+    "00_inbox/Workout.md": [],
+    "00_inbox/WSL.md": [],
+    "01_compass/Compass.md": [],
+    "01_compass/My Roles and Mission.md": [],
+    "01_compass/LessonsLearned/P&G Interview.md": [],
+    "02_areas/deen.md": [],
+    "02_areas/health.md": [
+      "Resources/Health/Nutrition",
+      "Resources/Health/Sleep Optimization",
+      "Resources/Health/Training Programs"
+    ],
+    "02_areas/system/daily routine.md": [
+      "evening routine",
+      "morning routine"
+    ],
+    "02_areas/system/evening routine.md": [],
+    "02_areas/system/morning routine.md": [],
+    "02_areas/system/system overview.md": [],
+    "02_areas/system/weekly routine.md": [],
+    "03_projects/DisciplinedManMode_NovDec/disciplined man.md": [],
+    "03_projects/DisciplinedManMode_NovDec/Spare time activities.md": [],
+    "03_projects/Gym Program 8 Weeks/Gym Program 8 weeks.md": [
+      "health"
+    ],
+    "03_projects/Gym Program 8 Weeks/Workout plan.md": [],
+    "03_projects/hefz surah al-baqarah/Quran Memorization Plan.md": [],
+    "04_resources/03_career/extreme_backend_dev_roadmap.md": [],
+    "04_resources/03_career/work-notes/Canoe 5alat.md": [],
+    "04_resources/03_career/work-notes/Euf R410 Issues workshop.md": [
+      "Pasted image 20250707142151.png",
+      "Pasted image 20250707142620.png"
+    ],
+    "04_resources/03_career/work-notes/Qualcomm Workshop.md": [],
+    "04_resources/03_career/work-notes/R410.md": [],
+    "04_resources/03_career/work-notes/Scene file.md": [],
+    "04_resources/03_career/work-notes/Security Access.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/21-9-2025 meeting.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/auth tool port 8000 issue.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/commands.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/deployment on dev.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Generating a framework id token.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Ideas.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Needs to be done.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Pricing analysis app agents mapping.md": [
+      "Pasted image 20250921142434.png"
+    ],
+    "04_resources/03_career/work-notes/AI4ALL/Problems and fixes.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Question to be answered.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/repo cleanup.md": [
+      "LON TODOS"
+    ],
+    "04_resources/03_career/work-notes/AI4ALL/Untitled.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/pricing analysis.md": [
+      "Comprehensive Guide to the Pricing Analysis Application",
+      "How to run pricing analysis"
+    ],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/Utility invoice application.md": [
+      "utilitiy invoice business logic",
+      "utility invoice backend",
+      "utility invoice backend security bitfall",
+      "utility invoice end to end",
+      "utility invoice frontend"
+    ],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/LON/LON TODOS.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/LON/LON.md": [
+      "LON TODOS"
+    ],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/prodval/backend/backend - index.md": [
+      "Docx_generation_service"
+    ],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/transportUtilityInvoice/APP description.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/transportUtilityInvoice/dev plan.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/transportUtilityInvoice/extra point.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/transportUtilityInvoice/FAQ.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/transportUtilityInvoice/Transport analysis question.md": [],
+    "04_resources/03_career/work-notes/AI4ALL/Apps/transportUtilityInvoice/Transport Invoice Auditor - Architecture Proposal.md": [],
+    "04_resources/03_career/work-notes/Sweet500Handover/Debugging.md": [],
+    "04_resources/03_career/work-notes/Sweet500Handover/Lessons learned.md": [
+      "startup script"
+    ],
+    "04_resources/03_career/work-notes/Sweet500Handover/List of topics.md": [],
+    "04_resources/03_career/work-notes/Sweet500Handover/New BSP headers process.md": [],
+    "04_resources/03_career/work-notes/Sweet500Handover/notes.md": [],
+    "04_resources/04_masters/.md": [],
+    "04_resources/04_masters/comparative study.md": [],
+    "04_resources/04_masters/Questions and Answers.md": [],
+    "04_resources/04_masters/Algos/Assigment3-Algo-Greedy&DP.md": [],
+    "04_resources/04_masters/Algos/Assignment2-Algo-Graphs.md": [
+      "Pasted image 20250704122852.png",
+      "Pasted image 20250706135051.png",
+      "Pasted image 20250706135439.png",
+      "Pasted image 20250706151712.png",
+      "Pasted image 20250706153718.png"
+    ],
+    "04_resources/04_masters/CIT690H Applied GenAI/e.md": [
+      "reward model"
+    ],
+    "04_resources/04_masters/CIT690H Applied GenAI/GenAI project plan.md": [],
+    "04_resources/04_masters/CIT690H Applied GenAI/Lecture 1.md": [
+      "greedy vs random sampling"
+    ],
+    "04_resources/04_masters/CIT690H Applied GenAI/Lecture 2.md": [
+      "Masked Language Modeling"
+    ],
+    "04_resources/04_masters/CIT690H Applied GenAI/Lecture 3.md": [],
+    "04_resources/04_masters/CIT690H Applied GenAI/Lecture 4.md": [],
+    "04_resources/04_masters/Cybersecurity/Cybersecurity Resources.md": [],
+    "04_resources/04_masters/DeepLearning/Lecture 02 Artificial Neural networks.md": [
+      "Pasted image 20250412152341.png"
+    ],
+    "04_resources/04_masters/DeepLearning/Lecture 03.md": [],
+    "04_resources/04_masters/DeepLearning/Lecture 07.md": [],
+    "04_resources/04_masters/DeepLearning/Lecture 08.md": [
+      "Project ideas"
+    ],
+    "04_resources/04_masters/DeepLearning/Lecture 09 Object detection.md": [],
+    "04_resources/04_masters/DeepLearning/Lecture 5.md": [],
+    "04_resources/04_masters/DeepLearning/Nile University DeepLearning course.md": [
+      "Lecture 02 Artificial Neural networks"
+    ],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/data draft.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/difference between proliferation and Mitosis.md": [
+      "Mitosis",
+      "Proliferation"
+    ],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Glioma-MDC 2025.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/glioma.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Images probelm.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Lecture 4.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Literature.md": [
+      "difference between proliferation and Mitosis",
+      "glioma",
+      "Gliomapipeline",
+      "Mitosis",
+      "Proliferation"
+    ],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Mitosis.md": [
+      "Proliferation"
+    ],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/plan of attack.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Project ideas.md": [],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/Proliferation.md": [
+      "Mitosis"
+    ],
+    "04_resources/04_masters/DeepLearning/Glioma project docs/training notes.md": [],
+    "04_resources/04_masters/Machine Learning/Evaluation metrics.md": [],
+    "04_resources/04_masters/Machine Learning/Feature Scaling.md": [
+      "Pasted image 20250104203840.png",
+      "Pasted image 20250104203928.png",
+      "Pasted image 20250104204118.png"
+    ],
+    "04_resources/04_masters/Machine Learning/Machine Learning lectures.md": [
+      "Non Linear Classifiers",
+      "Pasted image 20250102105222.png",
+      "Probability"
+    ],
+    "04_resources/04_masters/Machine Learning/Non Linear Classifiers.md": [
+      "Euclidean distance"
+    ],
+    "04_resources/04_masters/Machine Learning/Questions and answer.md": [],
+    "04_resources/04_masters/NLP/Lecture 0.md": [],
+    "04_resources/04_masters/NLP/lecture 05 - Topic modeling.md": [],
+    "04_resources/04_masters/NLP/Lecture 07 - Text summarization.md": [],
+    "04_resources/04_masters/NLP/Lecture 08 - chatbots.md": [],
+    "04_resources/04_masters/NLP/Lecture 09 - finetuning.md": [],
+    "04_resources/04_masters/NLP/Lecture 1.md": [
+      "embeddings",
+      "Vectorization techniques"
+    ],
+    "04_resources/04_masters/NLP/Lecture 2 - Language modelling.md": [
+      "Pasted image 20251229135742.png"
+    ],
+    "04_resources/04_masters/NLP/Lecture 3.md": [],
+    "04_resources/04_masters/NLP/Lecture 4 - Sentiment analysis.md": [],
+    "04_resources/04_masters/NLP/Lecture 6 - machine translation.md": [],
+    "04_resources/04_masters/NLP/Untitled.md": [],
+    "04_resources/05_health_wellbeing/Calories and Macros for my food.md": [],
+    "04_resources/05_health_wellbeing/Do when distracted.md": [],
+    "04_resources/05_health_wellbeing/diet/1900 calories plan.md": [
+      "Breakfast burrito"
+    ],
+    "04_resources/05_health_wellbeing/diet/Breakfast burrito.md": [],
+    "04_resources/06-learning/GCP training.md": [
+      "AlloyDB",
+      "AWS lambda",
+      "Cloud Filestore",
+      "Cloud run",
+      "Cloud SQL",
+      "Cloud storage",
+      "Compute service",
+      "Distributed system",
+      "Google Kubernetes engine",
+      "IaaS",
+      "nonrelational databases",
+      "PaaS",
+      "relational databases",
+      "SaaS"
+    ],
+    "04_resources/06-learning/00_courses/coursename-platform-instructor.md": [],
+    "04_resources/06-learning/00_courses/javascript-udemy-jonas/javascript-udemy-jonas-index.md": [
+      "Resources"
+    ],
+    "04_resources/06-learning/00_courses/react-udemy-jonas/react-udemy-jonas-index.md": [],
+    "04_resources/06-learning/Adaptive/Adaptive Autosar.md": [
+      "archi.jpg",
+      "DoIP",
+      "file proxy",
+      "swpackage.jpg",
+      "ucm.jpg",
+      "Vector adaptive training"
+    ],
+    "04_resources/06-learning/Adaptive/Adaptive Documentation Placeholders.md": [],
+    "04_resources/06-learning/Adaptive/Adaptive introduction Dalia hathout.md": [
+      "IPC",
+      "Message Queues",
+      "Socket programming",
+      "SOME/IP"
+    ],
+    "04_resources/06-learning/Adaptive/Adaptive questions.md": [],
+    "04_resources/06-learning/Adaptive/Adaptive standard.md": [],
+    "04_resources/06-learning/Adaptive/CommProxy Ipnext.md": [
+      "delegate class"
+    ],
+    "04_resources/06-learning/Adaptive/file proxy.md": [],
+    "04_resources/06-learning/Adaptive/Functional clusters.md": [
+      "Functional Clusters types"
+    ],
+    "04_resources/06-learning/Adaptive/FunctionGroups.md": [
+      "Funcitongroups 1.jpg",
+      "Machine Manifest"
+    ],
+    "04_resources/06-learning/Adaptive/Machine Manifest.md": [
+      "Execution Manifest",
+      "FunctionGroups",
+      "machineManifest.jpg"
+    ],
+    "04_resources/06-learning/Adaptive/Questions.md": [
+      "q2.jpg",
+      "q3.jpg"
+    ],
+    "04_resources/06-learning/Adaptive/vajson.md": [],
+    "04_resources/06-learning/Adaptive/Vector adaptive training.md": [
+      "Funcitongroups 2.jpg",
+      "FunctionGroups",
+      "methodology.jpg",
+      "Posix Profiles"
+    ],
+    "04_resources/06-learning/AI/AI resources.md": [],
+    "04_resources/06-learning/AI/Prompts types.md": [],
+    "04_resources/06-learning/AI/DeepLearning/Back propagation.md": [],
+    "04_resources/06-learning/AI/DeepLearning/CNN.md": [
+      "Convolution",
+      "padding in CNNs",
+      "Pasted image 20250415064959.png",
+      "Pasted image 20250419151522.png",
+      "Pooling"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/Convolution.md": [],
+    "04_resources/06-learning/AI/DeepLearning/Curse of Dimensionality.md": [],
+    "04_resources/06-learning/AI/DeepLearning/Deep Learning Questions and Answers.md": [],
+    "04_resources/06-learning/AI/DeepLearning/DeepLearning Analogy.md": [],
+    "04_resources/06-learning/AI/DeepLearning/DeepLearning resources.md": [],
+    "04_resources/06-learning/AI/DeepLearning/Gradient descent.md": [
+      "Pasted image 20250503135003.png",
+      "vanishing gradient"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/Learning summary.md": [
+      "Pasted image 20250412151037.png"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/Pooling.md": [
+      "Pasted image 20250419170337.png",
+      "Pasted image 20250420100159.png"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/Spectral theories in mathematics.md": [
+      "DeepLearning",
+      "Fourier transform"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/Stochastic gradient descent.md": [
+      "Gradient descent"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/Tensor.md": [],
+    "04_resources/06-learning/AI/DeepLearning/Updating Weights.md": [],
+    "04_resources/06-learning/AI/DeepLearning/InsideDeeplearning/Chapter 1.md": [],
+    "04_resources/06-learning/AI/DeepLearning/InsideDeeplearning/Derivative.md": [],
+    "04_resources/06-learning/AI/DeepLearning/NLP&GenAI/NLP History.md": [
+      "Pasted image 20251118090041.png"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/NLP&GenAI/NLP techniques.md": [
+      "Pasted image 20251118090354.png"
+    ],
+    "04_resources/06-learning/AI/DeepLearning/NLP&GenAI/NLP&GenAI resources.md": [],
+    "04_resources/06-learning/Linux/Bash learning.md": [],
+    "04_resources/06-learning/Linux/Bash Resources.md": [],
+    "04_resources/06-learning/Linux/Bash scripting.md": [
+      "Bash learning"
+    ],
+    "04_resources/06-learning/Linux/Linux Resources.md": [],
+    "04_resources/06-learning/Linux/porcess stack.md": [],
+    "04_resources/06-learning/Networking/TCP-IP ahmad hassan session.md": [],
+    "04_resources/06-learning/software/Backend resources.md": [],
+    "04_resources/06-learning/software/Make Q&A.md": [],
+    "04_resources/06-learning/software/Matrix of programming languages typing.md": [],
+    "04_resources/06-learning/software/Programming languages Typing.md": [
+      "dynamically typed programming language",
+      "loosely typed programming language",
+      "Matrix of programming languages typing",
+      "statically typed programming language",
+      "strongly typed programming language"
+    ],
+    "04_resources/06-learning/software/Python resources.md": [],
+    "04_resources/06-learning/software/C++/---.md": [],
+    "04_resources/06-learning/software/C++/Build configurations.md": [],
+    "04_resources/06-learning/software/C++/C style array decay.md": [],
+    "04_resources/06-learning/software/C++/C++ Best practices.md": [
+      "dangling pointer",
+      "Dynamic memory allocation C++",
+      "nullptr"
+    ],
+    "04_resources/06-learning/software/C++/C++ Concurrency.md": [
+      "Approaches to concurrency",
+      "Increasing Performance using concurrency",
+      "managing threads",
+      "OS only schedule threads not processes",
+      "Types of concurrency",
+      "Why use concurrency"
+    ],
+    "04_resources/06-learning/software/C++/C++ Definitions.md": [],
+    "04_resources/06-learning/software/C++/C++ Exceptions.md": [],
+    "04_resources/06-learning/software/C++/C++ Expressions.md": [],
+    "04_resources/06-learning/software/C++/C++ Networking Resources.md": [],
+    "04_resources/06-learning/software/C++/C++ Questions.md": [
+      "Dynamic memory allocation C++",
+      "Memory Allocation C++",
+      "Memory Leak",
+      "Memory Protection Unit",
+      "Segmentation fault C++"
+    ],
+    "04_resources/06-learning/software/C++/C++ References.md": [
+      "Compound data type"
+    ],
+    "04_resources/06-learning/software/C++/C++ Resources.md": [],
+    "04_resources/06-learning/software/C++/C++ Smart Pointers and move semantics.md": [
+      "Rule of three and Rule of Five"
+    ],
+    "04_resources/06-learning/software/C++/C++ Value categories (lvalues and rvalues).md": [
+      "C style array decay",
+      "C++ Expressions"
+    ],
+    "04_resources/06-learning/software/C++/C++.md": [],
+    "04_resources/06-learning/software/C++/Compiler extensions.md": [],
+    "04_resources/06-learning/software/C++/Constant Objects C++.md": [
+      "Constant Member functions C++"
+    ],
+    "04_resources/06-learning/software/C++/Constants C++.md": [
+      "initialization and assignment C++"
+    ],
+    "04_resources/06-learning/software/C++/Differences between C++ and C.md": [
+      "Conversion between int and enum in C and C++"
+    ],
+    "04_resources/06-learning/software/C++/Functors C++.md": [],
+    "04_resources/06-learning/software/C++/Lambda function c++.md": [],
+    "04_resources/06-learning/software/C++/Memory Faults C ++.md": [
+      "Segmentation fault C++"
+    ],
+    "04_resources/06-learning/software/C++/Namespaces C++.md": [],
+    "04_resources/06-learning/software/C++/Rule of three and Rule of Five.md": [],
+    "04_resources/06-learning/software/C++/Segmentation fault C++.md": [
+      "Memory Faults C ++"
+    ],
+    "04_resources/06-learning/software/C++/Untitled 1.md": [],
+    "04_resources/06-learning/software/C++/Untitled.md": [],
+    "04_resources/06-learning/software/C++/DesignPatterns/Design Patterns.md": [
+      "Behavioral Design Patterns",
+      "Creational Design Patterns",
+      "Structural Design Patterns"
+    ],
+    "04_resources/06-learning/software/C++/DsAndAlgo/C++ vectors.md": [
+      "C++ Exceptions",
+      "Segmentation fault C++"
+    ],
+    "04_resources/06-learning/software/C++/DsAndAlgo/Containers.md": [],
+    "04_resources/06-learning/software/C++/Testfolder1/Testfolder1.md": [],
+    "04_resources/06-learning/software/Databases/SQL.md": [],
+    "04_resources/06-learning/software/DSA/Binary Max Heap.md": [],
+    "04_resources/06-learning/software/DSA/Binary trees types.md": [
+      "Binary Max Heap",
+      "Binary trees types",
+      "Priority queues"
+    ],
+    "04_resources/06-learning/software/DSA/Ds and algorithms resources.md": [],
+    "04_resources/06-learning/software/FastAPi/FastApi.md": [],
+    "04_resources/06-learning/software/FastAPi/HTTP requests.md": [
+      "Pasted image 20250909150110.png"
+    ],
+    "04_resources/06-learning/software/frontend/Frontend Ideas.md": [
+      "Modal dialog"
+    ],
+    "04_resources/06-learning/software/frontend/React/React - index.md": [
+      "components",
+      "export"
+    ],
+    "04_resources/06-learning/software/Javascript/javascript - index.md": [
+      "data types in javascript",
+      "falsy values",
+      "logging to the console in java script",
+      "type coercion in javascript",
+      "type conversion in javascript",
+      "variables in javascript",
+      "what is javascript"
+    ],
+    "04_resources/06-learning/software/Python/AsyncIO.md": [
+      "Pasted image 20260107045747.png",
+      "Pasted image 20260107045903.png"
+    ],
+    "04_resources/06-learning/software/Python/Profiling python applications.md": [],
+    "04_resources/06-learning/software/Python/Python - index.md": [
+      "04_resources/06-learning/software/Python resources"
+    ],
+    "04_resources/06-learning/software/Python/Python compilation process.md": [
+      "GIL - global interpreter lock",
+      "python multithreading"
+    ],
+    "04_resources/06-learning/software/Python/python concurrency.md": [
+      "AsyncIO",
+      "python multithreading"
+    ],
+    "04_resources/06-learning/software/Python/Python resources.md": [],
+    "04_resources/06-learning/software/vscode/vscode index.md": [
+      "extensions bisect",
+      "vscode extensions"
+    ],
+    "04_resources/06-learning/software/Web/oauth.md": [
+      "JWT"
+    ],
+    "04_resources/07_business/Business Ideas 1.md": [],
+    "04_resources/07_business/Business Ideas.md": [],
+    "04_resources/07_business/fashion aggregator/hijabi brands.md": [],
+    "04_resources/099_general/Facebook people.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/AWS.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/container_architecture.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/container_diagram.png.md": [
+      "Pasted image 20250525114247.png"
+    ],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/CURL.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Definitions.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Design Decisions.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Docker.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/FastApi notes.md": [
+      "Swagger"
+    ],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Gitlab.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Ideas.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/localhost.md": [
+      "00_inbox/Loopback address"
+    ],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Loopback address.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Notes.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Plan of attack.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Presentation notes.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Questions & Answers.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Swagger.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Terraform.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Untitled 1.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/Untitled.md": [],
+    "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/My experience.md": [
+      "DevlopmentHierarchy.36.54.excalidraw",
+      "ErrorProxyAutomation",
+      "Glioma automation",
+      "Pasted image 20250708170057.png"
+    ],
+    "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/Personal perparation.md": [
+      "Pasted image 20250708025458.png"
+    ],
+    "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/Questions.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/AI4all datasets.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Ai4all Precommit-hook.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/alembic.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/API router.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/AWS features used.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/ci-cd.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/ContextManagers.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/conv hist.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Decorators.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Design decisions.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/dig into later.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Docker commands.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Docstrings.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/FAQ.md": [
+      "alembic",
+      "AWS features used",
+      "Kubernetes discussion",
+      "nginx role in the project",
+      "Project lifecycle and dataflow",
+      "Projectplan",
+      "Skills needed",
+      "SSL role in the project",
+      "stateless vs stateful"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/flow of request example.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Folder structure.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Gitlab.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/HTTP request.md": [
+      "Pasted image 20250725121924.png"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/Kubernetes discussion.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Limitations and enhancements.md": [
+      "AI4all datasets",
+      "Microservice application"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/List of issues.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Microservice application.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Mysteps.md": [
+      "AI4all datasets"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/nginx role in the project.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Project lifecycle and dataflow.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Projectplan.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Python.md": [
+      "ContextManagers",
+      "Decorators",
+      "Docstrings"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/Rest API.md": [
+      "Pasted image 20250725122508.png"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/seeding flow.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Skills needed.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/SSL role in the project.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/stateless vs stateful.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Two-way relationship between sql models.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/DataBase/Data schema modifications.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/DataBase/Data schema.md": [
+      "Data schema modifications",
+      "Pasted image 20250727140116.png"
+    ],
+    "05_archive/01_projects/ValeoAI4allproject/Python/Pydantic Importance.md": [],
+    "05_archive/01_projects/ValeoAI4allproject/Python/secrets.md": [],
+    "05_archive/02_resources/03_career/work_notes/Integration/Creating a Subrepo.md": [],
+    "05_archive/02_resources/03_career/work_notes/Integration/Static Analysis/Klocwork.md": [],
+    "05_archive/02_resources/03_career/work_notes/Integration/UnitTest/Unit Testing.md": [],
+    "05_archive/02_resources/03_career/work_notes/Interviews/Matthew Interview.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/BuildEnv task.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Cmake  notes.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Cmake requirements.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/ECU Ip address.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Lesson learned.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/must raise.md": [
+      "r400 kw issues"
+    ],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/r400 kw issues.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Reminders and Todos.md": [
+      "Pasted image 20231202170458.png"
+    ],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/BSPsnotes/BSPs.md": [
+      "BSPv4.2.0.3",
+      "BSPv5.1.1.0"
+    ],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/BuildEnv/BuildEnv PR comments.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/BuildEnv/Folder structure.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/BuildEnv/Libraries.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/BuildEnv/Repo Structure.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/ModeManagement/Mode Management.md": [
+      "Modes & States",
+      "Pasted image 20231126171010.png"
+    ],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/ModeManagement/Modes & States.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/ModeManagement/States.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/R420/artf3393309.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Releases/R330.md": [
+      "Sysidag"
+    ],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Releases/R400.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Vision/Hardware.md": [],
+    "05_archive/02_resources/03_career/work_notes/Sweet500/Vision/Software.md": [],
+    "05_archive/02_resources/03_career/work_notes/Tasks/BuildEnv Task.md": [],
+    "05_archive/Personal/Weekly plan - Summer.md": [
+      "Study plan",
+      "Workout",
+      "Workout - Full body 3x Days"
+    ],
+    "05_archive/Personal/Health/Workout/Workout - Full body 3x Days.md": [
+      "Pasted image 20250418171652.png"
+    ],
+    "05_archive/Personal/MonkMode/Message to Myself.md": [
+      "Read when pesimistic"
+    ],
+    "05_archive/Personal/MonkMode/Read when pesimistic.md": [],
+    "05_archive/Personal/MonkMode/Study plan.md": [],
+    "05_archive/Personal/MonkMode/Untitled.md": [],
+    "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0 Health goals.md": [],
+    "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0 Religious goals.md": [],
+    "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0. Technical goals.md": [],
+    "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md": [
+      "Focus points",
+      "Message to Myself",
+      "Monk Mode 1.0 Health goals",
+      "Monk Mode 1.0 Religious goals",
+      "Monk Mode 1.0. Technical goals",
+      "Weekly plan - Summer"
+    ],
+    "05_archive/Personal/MonkMode/MonkMode2/Mon Mode 2.0 plan.md": [
+      "Stretches",
+      "Study plan",
+      "Workout"
+    ],
+    "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md": [
+      "Focus points",
+      "Message to Myself",
+      "Monk Mode 1.0 Health goals",
+      "Monk Mode 1.0 Religious goals",
+      "Monk Mode 1.0. Technical goals",
+      "Weekly plan - Summer"
+    ],
+    "99_templates/Untitled.md": [
+      "{{COURSE}}"
+    ],
+    "Resources/Health/Nutrition.md": [],
+    "Resources/Health/Training Programs.md": []
+  },
+  "backlinks": {
+    "Pasted image 20241210153624.png": [
+      "00_inbox/AES.md"
+    ],
+    "AI4all pulses": [
+      "00_inbox/AI4all resources.md"
+    ],
+    "conc4 1.png": [
+      "00_inbox/Approaches to concurrency.md"
+    ],
+    "conc3.png": [
+      "00_inbox/Approaches to concurrency.md"
+    ],
+    "interprocess communication": [
+      "00_inbox/Approaches to concurrency.md"
+    ],
+    "detaching threads": [
+      "00_inbox/C++ Program life time.md"
+    ],
+    "Pasted image 20241031115804.png": [
+      "00_inbox/CI CD.md"
+    ],
+    "relational databases": [
+      "00_inbox/Cloud SQL.md",
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "ACID": [
+      "00_inbox/Cloud SQL.md"
+    ],
+    "Pasted image 20231123120404.png": [
+      "00_inbox/Commenting.md"
+    ],
+    "Pasted image 20231203103646.png": [
+      "00_inbox/Configuring Git lfs.md"
+    ],
+    "Mutable member variables C++": [
+      "00_inbox/Constant Member functions C++.md"
+    ],
+    "Design patterns resources": [
+      "00_inbox/Design Patterns Training.md"
+    ],
+    "Pasted image 20250519194704.png": [
+      "00_inbox/DiagIP.md"
+    ],
+    "Pasted image 20241119121837.png": [
+      "00_inbox/DmsAPp Performance KPIs.md"
+    ],
+    "dangling pointer": [
+      "00_inbox/Dynamic memory allocation C++.md",
+      "04_resources/06-learning/software/C++/C++ Best practices.md"
+    ],
+    "Segmentation fault C++": [
+      "00_inbox/Dynamic memory allocation C++.md",
+      "00_inbox/SIGBUS.md",
+      "04_resources/06-learning/software/C++/C++ Questions.md",
+      "04_resources/06-learning/software/C++/DsAndAlgo/C++ vectors.md",
+      "04_resources/06-learning/software/C++/Memory Faults C ++.md"
+    ],
+    "javascript has value data types and not variables data types": [
+      "00_inbox/dynamically typed programming language.md"
+    ],
+    "ethernet_physical_layer": [
+      "00_inbox/Ethernet training.md"
+    ],
+    "Pasted image 20241113084105.png": [
+      "00_inbox/Euf 8.2.0 integration.md"
+    ],
+    "Pasted image 20241113084929.png": [
+      "00_inbox/Euf 8.2.0 integration.md"
+    ],
+    "Pasted image 20240930173632.png": [
+      "00_inbox/euf workshop.md"
+    ],
+    "ExecutionManifest.jpg": [
+      "00_inbox/Execution Manifest.md"
+    ],
+    "type conversion in javascript": [
+      "00_inbox/falsy values.md",
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "Memory types": [
+      "00_inbox/Flashing BSP.md"
+    ],
+    "Moving a submodule to another place": [
+      "00_inbox/git.md"
+    ],
+    "Hardware threads": [
+      "00_inbox/Hardware concurrency.md"
+    ],
+    "IDS presentation notes": [
+      "00_inbox/IDS presentation.md"
+    ],
+    "Narrowing conversions": [
+      "00_inbox/initialization and assignment C++.md"
+    ],
+    "Classic_egg_drop": [
+      "00_inbox/Lazy Egg-Drop Problem.md"
+    ],
+    "Pasted image 20241118185116.png": [
+      "00_inbox/Lecture 4 - Regression.md"
+    ],
+    "Pasted image 20241118191345.png": [
+      "00_inbox/Lecture 4 - Regression.md"
+    ],
+    "File Descriptors in Linux": [
+      "00_inbox/Linux networking command.md",
+      "00_inbox/Useful Linux Commands.md"
+    ],
+    "Pasted image 20250906183618.png": [
+      "00_inbox/meal prep raw options.md"
+    ],
+    ".bss": [
+      "00_inbox/Memory Allocation C++.md"
+    ],
+    ".data": [
+      "00_inbox/Memory Allocation C++.md"
+    ],
+    "stack": [
+      "00_inbox/Memory Allocation C++.md"
+    ],
+    "Dynamic memory allocation C++": [
+      "00_inbox/Memory Allocation C++.md",
+      "00_inbox/Memory Leak.md",
+      "04_resources/06-learning/software/C++/C++ Best practices.md",
+      "04_resources/06-learning/software/C++/C++ Questions.md"
+    ],
+    "new keyword": [
+      "00_inbox/Memory Allocation C++.md"
+    ],
+    "heap": [
+      "00_inbox/Memory Allocation C++.md"
+    ],
+    "Linux": [
+      "00_inbox/Minicom.md"
+    ],
+    "Ride4": [
+      "00_inbox/Minicom.md"
+    ],
+    "sweet500": [
+      "00_inbox/Minicom.md"
+    ],
+    "Pasted image 20251020082815.png": [
+      "00_inbox/Modal dialog.md"
+    ],
+    "Pasted image 20250928133135.png": [
+      "00_inbox/OpenTelemetry.md"
+    ],
+    "Bayes' Rule": [
+      "00_inbox/Probability.md"
+    ],
+    "Pasted image 20251117104713.png": [
+      "00_inbox/product validation handover.md"
+    ],
+    "Pasted image 20240807221531.png": [
+      "00_inbox/Qnx Session.md"
+    ],
+    "Pasted image 20241209172457.png": [
+      "00_inbox/Regression.md"
+    ],
+    "People to look up to": [
+      "00_inbox/Remember.md"
+    ],
+    "Minicom": [
+      "00_inbox/Ride4.md"
+    ],
+    "SSH": [
+      "00_inbox/Ride4.md"
+    ],
+    "Pasted image 20241224164152.png": [
+      "00_inbox/RSA yt.md"
+    ],
+    "Pasted image 20241224165626.png": [
+      "00_inbox/RSA yt.md"
+    ],
+    "Pasted image 20241112190423.png": [
+      "00_inbox/RSA.md"
+    ],
+    "C4 Model": [
+      "00_inbox/Software Architecture diagraming.md"
+    ],
+    "oauth": [
+      "00_inbox/statefulness comaprison table.md"
+    ],
+    "JWT": [
+      "00_inbox/statefulness comaprison table.md",
+      "04_resources/06-learning/software/Web/oauth.md"
+    ],
+    "Cookies": [
+      "00_inbox/statefulness comaprison table.md"
+    ],
+    "Baked potato": [
+      "00_inbox/Steak day.md"
+    ],
+    "Sautee mushroom": [
+      "00_inbox/Steak day.md"
+    ],
+    "Steak": [
+      "00_inbox/Steak day.md"
+    ],
+    "Hardware concurrency": [
+      "00_inbox/Types of concurrency.md"
+    ],
+    "Task Switching": [
+      "00_inbox/Types of concurrency.md"
+    ],
+    "conc2.png": [
+      "00_inbox/Types of concurrency.md"
+    ],
+    "Pasted image 20240826230610.png": [
+      "00_inbox/Understanding ParkApp Diag.md"
+    ],
+    "visualization": [
+      "00_inbox/utility invoice backend security bitfall.md"
+    ],
+    "dynamically typed programming language": [
+      "00_inbox/variables in javascript.md",
+      "00_inbox/what is javascript.md",
+      "04_resources/06-learning/software/Programming languages Typing.md"
+    ],
+    "loosely typed programming language": [
+      "00_inbox/variables in javascript.md",
+      "00_inbox/what is javascript.md",
+      "04_resources/06-learning/software/Programming languages Typing.md"
+    ],
+    "window object in javascript": [
+      "00_inbox/variables in javascript.md"
+    ],
+    "event driven programming lanugae": [
+      "00_inbox/what is javascript.md"
+    ],
+    "calling javascript scripts inside html": [
+      "00_inbox/what is javascript.md"
+    ],
+    "interpreted language": [
+      "00_inbox/what is javascript.md"
+    ],
+    "Increasing Performance using concurrency": [
+      "00_inbox/Why use concurrency.md",
+      "04_resources/06-learning/software/C++/C++ Concurrency.md"
+    ],
+    "Resources/Health/Nutrition": [
+      "02_areas/health.md"
+    ],
+    "Resources/Health/Training Programs": [
+      "02_areas/health.md"
+    ],
+    "Resources/Health/Sleep Optimization": [
+      "02_areas/health.md"
+    ],
+    "morning routine": [
+      "02_areas/system/daily routine.md"
+    ],
+    "evening routine": [
+      "02_areas/system/daily routine.md"
+    ],
+    "health": [
+      "03_projects/Gym Program 8 Weeks/Gym Program 8 weeks.md"
+    ],
+    "Pasted image 20250707142151.png": [
+      "04_resources/03_career/work-notes/Euf R410 Issues workshop.md"
+    ],
+    "Pasted image 20250707142620.png": [
+      "04_resources/03_career/work-notes/Euf R410 Issues workshop.md"
+    ],
+    "Pasted image 20250921142434.png": [
+      "04_resources/03_career/work-notes/AI4ALL/Pricing analysis app agents mapping.md"
+    ],
+    "LON TODOS": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/LON/LON.md",
+      "04_resources/03_career/work-notes/AI4ALL/repo cleanup.md"
+    ],
+    "Comprehensive Guide to the Pricing Analysis Application": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/pricing analysis.md"
+    ],
+    "How to run pricing analysis": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/pricing analysis.md"
+    ],
+    "utility invoice end to end": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/Utility invoice application.md"
+    ],
+    "utility invoice frontend": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/Utility invoice application.md"
+    ],
+    "utility invoice backend": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/Utility invoice application.md"
+    ],
+    "utilitiy invoice business logic": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/Utility invoice application.md"
+    ],
+    "utility invoice backend security bitfall": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/Utility invoice application.md"
+    ],
+    "Docx_generation_service": [
+      "04_resources/03_career/work-notes/AI4ALL/Apps/prodval/backend/backend - index.md"
+    ],
+    "startup script": [
+      "04_resources/03_career/work-notes/Sweet500Handover/Lessons learned.md"
+    ],
+    "Pasted image 20250704122852.png": [
+      "04_resources/04_masters/Algos/Assignment2-Algo-Graphs.md"
+    ],
+    "Pasted image 20250706135051.png": [
+      "04_resources/04_masters/Algos/Assignment2-Algo-Graphs.md"
+    ],
+    "Pasted image 20250706135439.png": [
+      "04_resources/04_masters/Algos/Assignment2-Algo-Graphs.md"
+    ],
+    "Pasted image 20250706151712.png": [
+      "04_resources/04_masters/Algos/Assignment2-Algo-Graphs.md"
+    ],
+    "Pasted image 20250706153718.png": [
+      "04_resources/04_masters/Algos/Assignment2-Algo-Graphs.md"
+    ],
+    "reward model": [
+      "04_resources/04_masters/CIT690H Applied GenAI/e.md"
+    ],
+    "greedy vs random sampling": [
+      "04_resources/04_masters/CIT690H Applied GenAI/Lecture 1.md"
+    ],
+    "Masked Language Modeling": [
+      "04_resources/04_masters/CIT690H Applied GenAI/Lecture 2.md"
+    ],
+    "Pasted image 20250412152341.png": [
+      "04_resources/04_masters/DeepLearning/Lecture 02 Artificial Neural networks.md"
+    ],
+    "Project ideas": [
+      "04_resources/04_masters/DeepLearning/Lecture 08.md"
+    ],
+    "Lecture 02 Artificial Neural networks": [
+      "04_resources/04_masters/DeepLearning/Nile University DeepLearning course.md"
+    ],
+    "Proliferation": [
+      "04_resources/04_masters/DeepLearning/Glioma project docs/difference between proliferation and Mitosis.md",
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Literature.md",
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Mitosis.md"
+    ],
+    "Mitosis": [
+      "04_resources/04_masters/DeepLearning/Glioma project docs/difference between proliferation and Mitosis.md",
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Literature.md",
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Proliferation.md"
+    ],
+    "glioma": [
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Literature.md"
+    ],
+    "difference between proliferation and Mitosis": [
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Literature.md"
+    ],
+    "Gliomapipeline": [
+      "04_resources/04_masters/DeepLearning/Glioma project docs/Literature.md"
+    ],
+    "Pasted image 20250104203840.png": [
+      "04_resources/04_masters/Machine Learning/Feature Scaling.md"
+    ],
+    "Pasted image 20250104203928.png": [
+      "04_resources/04_masters/Machine Learning/Feature Scaling.md"
+    ],
+    "Pasted image 20250104204118.png": [
+      "04_resources/04_masters/Machine Learning/Feature Scaling.md"
+    ],
+    "Pasted image 20250102105222.png": [
+      "04_resources/04_masters/Machine Learning/Machine Learning lectures.md"
+    ],
+    "Probability": [
+      "04_resources/04_masters/Machine Learning/Machine Learning lectures.md"
+    ],
+    "Non Linear Classifiers": [
+      "04_resources/04_masters/Machine Learning/Machine Learning lectures.md"
+    ],
+    "Euclidean distance": [
+      "04_resources/04_masters/Machine Learning/Non Linear Classifiers.md"
+    ],
+    "Vectorization techniques": [
+      "04_resources/04_masters/NLP/Lecture 1.md"
+    ],
+    "embeddings": [
+      "04_resources/04_masters/NLP/Lecture 1.md"
+    ],
+    "Pasted image 20251229135742.png": [
+      "04_resources/04_masters/NLP/Lecture 2 - Language modelling.md"
+    ],
+    "Breakfast burrito": [
+      "04_resources/05_health_wellbeing/diet/1900 calories plan.md"
+    ],
+    "IaaS": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "PaaS": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "SaaS": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Compute service": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Cloud run": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "AWS lambda": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Google Kubernetes engine": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Cloud storage": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Cloud SQL": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Distributed system": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "AlloyDB": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Cloud Filestore": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "nonrelational databases": [
+      "04_resources/06-learning/GCP training.md"
+    ],
+    "Resources": [
+      "04_resources/06-learning/00_courses/javascript-udemy-jonas/javascript-udemy-jonas-index.md"
+    ],
+    "archi.jpg": [
+      "04_resources/06-learning/Adaptive/Adaptive Autosar.md"
+    ],
+    "DoIP": [
+      "04_resources/06-learning/Adaptive/Adaptive Autosar.md"
+    ],
+    "file proxy": [
+      "04_resources/06-learning/Adaptive/Adaptive Autosar.md"
+    ],
+    "swpackage.jpg": [
+      "04_resources/06-learning/Adaptive/Adaptive Autosar.md"
+    ],
+    "ucm.jpg": [
+      "04_resources/06-learning/Adaptive/Adaptive Autosar.md"
+    ],
+    "Vector adaptive training": [
+      "04_resources/06-learning/Adaptive/Adaptive Autosar.md"
+    ],
+    "IPC": [
+      "04_resources/06-learning/Adaptive/Adaptive introduction Dalia hathout.md"
+    ],
+    "SOME/IP": [
+      "04_resources/06-learning/Adaptive/Adaptive introduction Dalia hathout.md"
+    ],
+    "Socket programming": [
+      "04_resources/06-learning/Adaptive/Adaptive introduction Dalia hathout.md"
+    ],
+    "Message Queues": [
+      "04_resources/06-learning/Adaptive/Adaptive introduction Dalia hathout.md"
+    ],
+    "delegate class": [
+      "04_resources/06-learning/Adaptive/CommProxy Ipnext.md"
+    ],
+    "Functional Clusters types": [
+      "04_resources/06-learning/Adaptive/Functional clusters.md"
+    ],
+    "Funcitongroups 1.jpg": [
+      "04_resources/06-learning/Adaptive/FunctionGroups.md"
+    ],
+    "Machine Manifest": [
+      "04_resources/06-learning/Adaptive/FunctionGroups.md"
+    ],
+    "FunctionGroups": [
+      "04_resources/06-learning/Adaptive/Machine Manifest.md",
+      "04_resources/06-learning/Adaptive/Vector adaptive training.md"
+    ],
+    "Execution Manifest": [
+      "04_resources/06-learning/Adaptive/Machine Manifest.md"
+    ],
+    "machineManifest.jpg": [
+      "04_resources/06-learning/Adaptive/Machine Manifest.md"
+    ],
+    "q2.jpg": [
+      "04_resources/06-learning/Adaptive/Questions.md"
+    ],
+    "q3.jpg": [
+      "04_resources/06-learning/Adaptive/Questions.md"
+    ],
+    "methodology.jpg": [
+      "04_resources/06-learning/Adaptive/Vector adaptive training.md"
+    ],
+    "Posix Profiles": [
+      "04_resources/06-learning/Adaptive/Vector adaptive training.md"
+    ],
+    "Funcitongroups 2.jpg": [
+      "04_resources/06-learning/Adaptive/Vector adaptive training.md"
+    ],
+    "Convolution": [
+      "04_resources/06-learning/AI/DeepLearning/CNN.md"
+    ],
+    "Pasted image 20250415064959.png": [
+      "04_resources/06-learning/AI/DeepLearning/CNN.md"
+    ],
+    "padding in CNNs": [
+      "04_resources/06-learning/AI/DeepLearning/CNN.md"
+    ],
+    "Pooling": [
+      "04_resources/06-learning/AI/DeepLearning/CNN.md"
+    ],
+    "Pasted image 20250419151522.png": [
+      "04_resources/06-learning/AI/DeepLearning/CNN.md"
+    ],
+    "vanishing gradient": [
+      "04_resources/06-learning/AI/DeepLearning/Gradient descent.md"
+    ],
+    "Pasted image 20250503135003.png": [
+      "04_resources/06-learning/AI/DeepLearning/Gradient descent.md"
+    ],
+    "Pasted image 20250412151037.png": [
+      "04_resources/06-learning/AI/DeepLearning/Learning summary.md"
+    ],
+    "Pasted image 20250419170337.png": [
+      "04_resources/06-learning/AI/DeepLearning/Pooling.md"
+    ],
+    "Pasted image 20250420100159.png": [
+      "04_resources/06-learning/AI/DeepLearning/Pooling.md"
+    ],
+    "Fourier transform": [
+      "04_resources/06-learning/AI/DeepLearning/Spectral theories in mathematics.md"
+    ],
+    "DeepLearning": [
+      "04_resources/06-learning/AI/DeepLearning/Spectral theories in mathematics.md"
+    ],
+    "Gradient descent": [
+      "04_resources/06-learning/AI/DeepLearning/Stochastic gradient descent.md"
+    ],
+    "Pasted image 20251118090041.png": [
+      "04_resources/06-learning/AI/DeepLearning/NLP&GenAI/NLP History.md"
+    ],
+    "Pasted image 20251118090354.png": [
+      "04_resources/06-learning/AI/DeepLearning/NLP&GenAI/NLP techniques.md"
+    ],
+    "Bash learning": [
+      "04_resources/06-learning/Linux/Bash scripting.md"
+    ],
+    "statically typed programming language": [
+      "04_resources/06-learning/software/Programming languages Typing.md"
+    ],
+    "strongly typed programming language": [
+      "04_resources/06-learning/software/Programming languages Typing.md"
+    ],
+    "Matrix of programming languages typing": [
+      "04_resources/06-learning/software/Programming languages Typing.md"
+    ],
+    "nullptr": [
+      "04_resources/06-learning/software/C++/C++ Best practices.md"
+    ],
+    "Types of concurrency": [
+      "04_resources/06-learning/software/C++/C++ Concurrency.md"
+    ],
+    "Approaches to concurrency": [
+      "04_resources/06-learning/software/C++/C++ Concurrency.md"
+    ],
+    "Why use concurrency": [
+      "04_resources/06-learning/software/C++/C++ Concurrency.md"
+    ],
+    "managing threads": [
+      "04_resources/06-learning/software/C++/C++ Concurrency.md"
+    ],
+    "OS only schedule threads not processes": [
+      "04_resources/06-learning/software/C++/C++ Concurrency.md"
+    ],
+    "Memory Protection Unit": [
+      "04_resources/06-learning/software/C++/C++ Questions.md"
+    ],
+    "Memory Leak": [
+      "04_resources/06-learning/software/C++/C++ Questions.md"
+    ],
+    "Memory Allocation C++": [
+      "04_resources/06-learning/software/C++/C++ Questions.md"
+    ],
+    "Compound data type": [
+      "04_resources/06-learning/software/C++/C++ References.md"
+    ],
+    "Rule of three and Rule of Five": [
+      "04_resources/06-learning/software/C++/C++ Smart Pointers and move semantics.md"
+    ],
+    "C++ Expressions": [
+      "04_resources/06-learning/software/C++/C++ Value categories (lvalues and rvalues).md"
+    ],
+    "C style array decay": [
+      "04_resources/06-learning/software/C++/C++ Value categories (lvalues and rvalues).md"
+    ],
+    "Constant Member functions C++": [
+      "04_resources/06-learning/software/C++/Constant Objects C++.md"
+    ],
+    "initialization and assignment C++": [
+      "04_resources/06-learning/software/C++/Constants C++.md"
+    ],
+    "Conversion between int and enum in C and C++": [
+      "04_resources/06-learning/software/C++/Differences between C++ and C.md"
+    ],
+    "Memory Faults C ++": [
+      "04_resources/06-learning/software/C++/Segmentation fault C++.md"
+    ],
+    "Creational Design Patterns": [
+      "04_resources/06-learning/software/C++/DesignPatterns/Design Patterns.md"
+    ],
+    "Structural Design Patterns": [
+      "04_resources/06-learning/software/C++/DesignPatterns/Design Patterns.md"
+    ],
+    "Behavioral Design Patterns": [
+      "04_resources/06-learning/software/C++/DesignPatterns/Design Patterns.md"
+    ],
+    "C++ Exceptions": [
+      "04_resources/06-learning/software/C++/DsAndAlgo/C++ vectors.md"
+    ],
+    "Binary trees types": [
+      "04_resources/06-learning/software/DSA/Binary trees types.md"
+    ],
+    "Binary Max Heap": [
+      "04_resources/06-learning/software/DSA/Binary trees types.md"
+    ],
+    "Priority queues": [
+      "04_resources/06-learning/software/DSA/Binary trees types.md"
+    ],
+    "Pasted image 20250909150110.png": [
+      "04_resources/06-learning/software/FastAPi/HTTP requests.md"
+    ],
+    "Modal dialog": [
+      "04_resources/06-learning/software/frontend/Frontend Ideas.md"
+    ],
+    "components": [
+      "04_resources/06-learning/software/frontend/React/React - index.md"
+    ],
+    "export": [
+      "04_resources/06-learning/software/frontend/React/React - index.md"
+    ],
+    "what is javascript": [
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "variables in javascript": [
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "logging to the console in java script": [
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "data types in javascript": [
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "type coercion in javascript": [
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "falsy values": [
+      "04_resources/06-learning/software/Javascript/javascript - index.md"
+    ],
+    "Pasted image 20260107045747.png": [
+      "04_resources/06-learning/software/Python/AsyncIO.md"
+    ],
+    "Pasted image 20260107045903.png": [
+      "04_resources/06-learning/software/Python/AsyncIO.md"
+    ],
+    "04_resources/06-learning/software/Python resources": [
+      "04_resources/06-learning/software/Python/Python - index.md"
+    ],
+    "python multithreading": [
+      "04_resources/06-learning/software/Python/Python compilation process.md",
+      "04_resources/06-learning/software/Python/python concurrency.md"
+    ],
+    "GIL - global interpreter lock": [
+      "04_resources/06-learning/software/Python/Python compilation process.md"
+    ],
+    "AsyncIO": [
+      "04_resources/06-learning/software/Python/python concurrency.md"
+    ],
+    "vscode extensions": [
+      "04_resources/06-learning/software/vscode/vscode index.md"
+    ],
+    "extensions bisect": [
+      "04_resources/06-learning/software/vscode/vscode index.md"
+    ],
+    "Pasted image 20250525114247.png": [
+      "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/container_diagram.png.md"
+    ],
+    "Swagger": [
+      "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/FastApi notes.md"
+    ],
+    "00_inbox/Loopback address": [
+      "05_archive/01_projects/SiemensB&IProcess/EndtoEndProject/localhost.md"
+    ],
+    "ErrorProxyAutomation": [
+      "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/My experience.md"
+    ],
+    "DevlopmentHierarchy.36.54.excalidraw": [
+      "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/My experience.md"
+    ],
+    "Pasted image 20250708170057.png": [
+      "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/My experience.md"
+    ],
+    "Glioma automation": [
+      "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/My experience.md"
+    ],
+    "Pasted image 20250708025458.png": [
+      "05_archive/01_projects/SiemensB&IProcess/Panel Us Interview/Personal perparation.md"
+    ],
+    "Kubernetes discussion": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "Skills needed": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "AWS features used": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "stateless vs stateful": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "Project lifecycle and dataflow": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "Projectplan": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "nginx role in the project": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "SSL role in the project": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "alembic": [
+      "05_archive/01_projects/ValeoAI4allproject/FAQ.md"
+    ],
+    "Pasted image 20250725121924.png": [
+      "05_archive/01_projects/ValeoAI4allproject/HTTP request.md"
+    ],
+    "Microservice application": [
+      "05_archive/01_projects/ValeoAI4allproject/Limitations and enhancements.md"
+    ],
+    "AI4all datasets": [
+      "05_archive/01_projects/ValeoAI4allproject/Limitations and enhancements.md",
+      "05_archive/01_projects/ValeoAI4allproject/Mysteps.md"
+    ],
+    "Docstrings": [
+      "05_archive/01_projects/ValeoAI4allproject/Python.md"
+    ],
+    "ContextManagers": [
+      "05_archive/01_projects/ValeoAI4allproject/Python.md"
+    ],
+    "Decorators": [
+      "05_archive/01_projects/ValeoAI4allproject/Python.md"
+    ],
+    "Pasted image 20250725122508.png": [
+      "05_archive/01_projects/ValeoAI4allproject/Rest API.md"
+    ],
+    "Data schema modifications": [
+      "05_archive/01_projects/ValeoAI4allproject/DataBase/Data schema.md"
+    ],
+    "Pasted image 20250727140116.png": [
+      "05_archive/01_projects/ValeoAI4allproject/DataBase/Data schema.md"
+    ],
+    "r400 kw issues": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/must raise.md"
+    ],
+    "Pasted image 20231202170458.png": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/Reminders and Todos.md"
+    ],
+    "BSPv4.2.0.3": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/BSPsnotes/BSPs.md"
+    ],
+    "BSPv5.1.1.0": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/BSPsnotes/BSPs.md"
+    ],
+    "Modes & States": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/ModeManagement/Mode Management.md"
+    ],
+    "Pasted image 20231126171010.png": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/ModeManagement/Mode Management.md"
+    ],
+    "Sysidag": [
+      "05_archive/02_resources/03_career/work_notes/Sweet500/Releases/R330.md"
+    ],
+    "Workout": [
+      "05_archive/Personal/MonkMode/MonkMode2/Mon Mode 2.0 plan.md",
+      "05_archive/Personal/Weekly plan - Summer.md"
+    ],
+    "Study plan": [
+      "05_archive/Personal/MonkMode/MonkMode2/Mon Mode 2.0 plan.md",
+      "05_archive/Personal/Weekly plan - Summer.md"
+    ],
+    "Workout - Full body 3x Days": [
+      "05_archive/Personal/Weekly plan - Summer.md"
+    ],
+    "Pasted image 20250418171652.png": [
+      "05_archive/Personal/Health/Workout/Workout - Full body 3x Days.md"
+    ],
+    "Read when pesimistic": [
+      "05_archive/Personal/MonkMode/Message to Myself.md"
+    ],
+    "Focus points": [
+      "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md",
+      "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md"
+    ],
+    "Message to Myself": [
+      "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md",
+      "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md"
+    ],
+    "Weekly plan - Summer": [
+      "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md",
+      "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md"
+    ],
+    "Monk Mode 1.0. Technical goals": [
+      "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md",
+      "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md"
+    ],
+    "Monk Mode 1.0 Religious goals": [
+      "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md",
+      "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md"
+    ],
+    "Monk Mode 1.0 Health goals": [
+      "05_archive/Personal/MonkMode/MonkMode1/Monk Mode 1.0.md",
+      "05_archive/Personal/MonkMode/MonkMode2/Monk Mode 2.0.md"
+    ],
+    "Stretches": [
+      "05_archive/Personal/MonkMode/MonkMode2/Mon Mode 2.0 plan.md"
+    ],
+    "{{COURSE}}": [
+      "99_templates/Untitled.md"
+    ]
+  }
+}

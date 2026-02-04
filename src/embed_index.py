@@ -8,12 +8,14 @@ from rich import print
 from sentence_transformers import SentenceTransformer
 
 from .config import VAULT_PATH
-from .ingest import load_and_chunk_vault
+from .ingest import load_and_chunk_vault, iter_md_files
+from .tools import extract_links
 
 INDEX_DIR = "data/index"
 FAISS_PATH = os.path.join(INDEX_DIR, "faiss.index")
 META_PATH = os.path.join(INDEX_DIR, "chunks.jsonl")
 MANIFEST_PATH = os.path.join(INDEX_DIR, "manifest.json")
+LINKS_PATH = os.path.join(INDEX_DIR, "links.json")
 
 # A good default embedding model (fast + solid)
 EMBED_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
@@ -38,12 +40,58 @@ def save_jsonl(path: str, rows):
 
 
 
+def build_link_index(vault_dir: str) -> Dict[str, Any]:
+    """Build a deterministic Obsidian link index over the vault.
+
+    Output:
+      {
+        "outgoing": { "rel_path.md": ["Target A", "Target B", ...], ... },
+        "backlinks": { "Target A": ["note1.md", "note2.md"], ... }
+      }
+
+    We index wikilink targets as strings (note titles/stems). Resolution to paths is
+    handled at query time via resolve_note().
+    """
+    outgoing: Dict[str, List[str]] = {}
+    backlinks: Dict[str, List[str]] = {}
+
+    for abs_path in iter_md_files(vault_dir):
+        rel_path = os.path.relpath(abs_path, vault_dir).replace("\\", "/")
+
+        try:
+            with open(abs_path, "r", encoding="utf-8") as f:
+                md = f.read()
+        except Exception:
+            continue
+
+        links = extract_links(md)
+        wls = links.get("wikilinks", []) or []
+        outgoing[rel_path] = wls
+
+        for t in wls:
+            backlinks.setdefault(t, []).append(rel_path)
+
+    # de-dupe + stable sort
+    for k in list(outgoing.keys()):
+        outgoing[k] = sorted(set(outgoing[k]), key=lambda x: x.lower())
+    for t in list(backlinks.keys()):
+        backlinks[t] = sorted(set(backlinks[t]), key=lambda x: x.lower())
+
+    return {"outgoing": outgoing, "backlinks": backlinks}
+
+
 def build_index():
     ensure_dir(INDEX_DIR)
 
     print(f"[bold]Vault:[/bold] {VAULT_PATH}")
     chunks = load_and_chunk_vault(VAULT_PATH)
     print(f"[green]Chunks to index:[/green] {len(chunks)}")
+
+    print("[bold]Building link index...[/bold]")
+    link_index = build_link_index(VAULT_PATH)
+    with open(LINKS_PATH, "w", encoding="utf-8") as f:
+        json.dump(link_index, f, ensure_ascii=False, indent=2)
+    print(f"[green]Saved link index:[/green] {LINKS_PATH}")
 
     model = SentenceTransformer(EMBED_MODEL_NAME)
 
